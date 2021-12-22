@@ -5,13 +5,13 @@
 }
 
 :root{
-  --primary: #005E9E;
-  --secondary: #116DFF;
+  --primary: #4275FA;
+  --secondary: #2E2D56;
   --white: #FFFFFF;
-
+  // --button:#015EA1;
+  --background: #294BA2;
   --title: #605E5E;
-  --text: #000000;
-  --button:#015EA1;
+  --text: #929292;
 
   font-size: 62.5%; // 10px = 1rem
 }
@@ -23,11 +23,7 @@ body {
   font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
     Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
 
-    height: 100%;
-    // max-width: 1200px;
-    // border: 1px solid red;
-
-    
+    height: 100%; 
 }
 
 body, form, input, textarea, select, button {

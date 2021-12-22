@@ -4,6 +4,7 @@
   justify-content: flex-end;
 
   padding: 1rem;
+  // background: var(--primary);
 
   width: 100%;  
   ul{
@@ -12,14 +13,14 @@
     align-items: center;
     list-style: none;
     width: 45rem;
-    border: 1px solid red;
+    // border: 1px solid red;
   }
 
   li{
     font-size: 1.5rem;
     font-family: "Roboto", sans-serif;
     font-weight: 900;
-    color: var(--primary);
+    color: var(--white);
     
     transition: 0.4s;
     
