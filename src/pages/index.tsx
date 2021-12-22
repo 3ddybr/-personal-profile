@@ -13,27 +13,33 @@ const Home: NextPage = () => {
 
       </div>
       <div className={styles.tecnologias}>
-        <h1>Tecnologias</h1>
+        <h2>Tecnologias</h2>
         <div className={styles.tecnologias_content}>
-          <p>Pac Básico (HTML | JavaScript | CSS)</p>
-          <p>ReactJS | NextJS</p>
-          <p>TypeScript</p>
-          <p>Context API</p>
-          <p>Mobal-Force</p>
-          <p>SASS</p>
-          <p>Styled-Component</p>
-          <p>FireBase</p>
+          
+          <p>🚀ReactJS | NextJS </p>
+          <p>🚀Pac Básico (HTML | JavaScript | CSS)</p>
+          <p>🚀TypeScrip</p>
+          <p>🚀Context API </p>
+          <p>🚀Mobal-Force</p>
+          <p>🚀SASS </p>
+          <p>🚀Styled-Component</p>
+          <p>🚀FireBase</p>
         </div>
       </div>
 
       <div className={styles.cursos}>
-        <h1>Cursos & Eventos</h1>
+        <h2>Cursos & Eventos</h2>
         <div className={styles.cursos_content}>
-          <p>NLW 02</p>
-          <p>NLW 03</p>
-          <p>NLW 04</p>
-          <p>NLW 05</p>
-          <p>NLW 06</p>
+          <p> NLW 02 🔥</p>
+          <p> NLW 03 🔥</p>
+          <p> NLW 04 🔥</p>
+          <p> NLW 05 🔥</p>
+          <p> NLW 06 🔥</p>
+          <p> Ignite ReactJS/NextJs 🔥</p>
+        </div>
+
+        <div className={styles.footer}>
+          <img src="" alt="" />
         </div>
 
       </div>
